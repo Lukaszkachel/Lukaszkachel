@@ -1,5 +1,0 @@
-To jest pierwsza wersja plinku nr 1
-Zmiana w plinku nr1 
-
-komenda git add + nazwa pliku dodaje pojedyńczy plik do indeksu
-komenda git add . dodaje wszystkie pliki do indeksu
